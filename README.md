@@ -16,4 +16,4 @@ i also started work on a fully requests based solver but i do not plan on releas
 
 
 DOWNLOAD IMG CLASSIFIER MODEL FROM: https://anonfiles.com/p1t44dxey4/best_pt
-DOWNLOAD SUPER RES / DENOISGER MODEL FROM: https://anonfiles.com/tfs94cxay0/scunet_color_pth
+DOWNLOAD SUPER RES / DENOISER MODEL FROM: https://anonfiles.com/tfs94cxay0/scunet_color_pth
